@@ -18,7 +18,7 @@ pyflowchart
 pypdf
 python-jose
 qrcode
-sagemaker
+sagemaker==2.227.0
 stability-sdk[sagemaker] @ git+https://github.com/Stability-AI/stability-sdk.git@sagemaker
 streamlit
 streamlit-analytics
